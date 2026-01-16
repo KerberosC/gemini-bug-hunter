@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="logo-cli.png" alt="Gemini Bug Hunter Logo" width="200"/>
-  
+<div align="center">  
   # 🛡️ Gemini Bug Hunter
 
   ### AI-Powered Security Vulnerability Hunter (CLI)
