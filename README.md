@@ -78,11 +78,19 @@ cp .env.example .env
 npm start doctor
 ```
 
-### Global Installation (Optional)
+### Global Installation
+
+To use `gbh` from anywhere in your terminal:
 
 ```bash
-npm link
-# Now you can use 'gbh' from anywhere
+# 1. Install globally
+npm install -g gemini-bug-hunter
+
+# 2. Set your API Key globally (Run once)
+gbh config set-key <YOUR_GEMINI_API_KEY>
+
+# 3. Ready to scan!
+gbh scan
 ```
 
 ---
