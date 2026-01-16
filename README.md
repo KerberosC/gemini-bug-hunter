@@ -1,4 +1,7 @@
 <div align="center">  
+  
+  <img width="438" height="188" alt="image" src="https://github.com/user-attachments/assets/20f1e804-f500-42eb-9db2-90d9e5b982dd" />
+
   # 🛡️ Gemini Bug Hunter
 
   ### AI-Powered Security Vulnerability Hunter (CLI)
